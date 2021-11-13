@@ -10,7 +10,6 @@ char_list = [b'\xf0\x9f\x95\x90', b'\xf0\x9f\x95\x91', b'\xf0\x9f\x95\x92', b'\x
 
 char_list = char_list[:12]
 # char_list = char_list[12:]
-print(len(char_list))
 
 os.system("clear")
 for i in range(365):
