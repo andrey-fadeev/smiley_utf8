@@ -13,4 +13,5 @@ After that I removed all the break lines characters via<br>
 And here is final <a href="https://raw.githubusercontent.com/andrey-fadeev/smiley_utf8/master/smileys.txt" target="_blank">result</a><br>
 
 Also, I did notice two packs of 12 clock icons, so I decide to animate them a bit. Just run<br>
-```python3 clock.py```
+```python3 clock.py```<br>
+and you should see something similar to this &nbsp; <img src="clock.gif"/>
